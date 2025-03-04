@@ -17,7 +17,7 @@
    <div class="card centered" data-slide="right"></div>
    <div class="card centered" data-slide="bottom"></div>
    <div class="card centered"></div>
-  html```
+   ```
 
    Первая карточка с data-slide="right" будет при загрузке страницы по середине и явно указывает что вторая карточка будет справа от нее
    Находясь на второй карточке, data-slide="bottom" указывает что следующая карточка будет ниже (под ней)
