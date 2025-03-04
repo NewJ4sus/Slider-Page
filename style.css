@@ -1,0 +1,35 @@
+*, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: #000000;
+    color: #fff;
+    overflow: hidden;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 1%;
+    left: 0.5%;
+}
+
+.card {
+    position: absolute;
+    height: 98%;
+    width: 99%;
+    background-color: #252530;
+    color: #000;
+    border-radius: 40px;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
